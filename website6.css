@@ -55,8 +55,7 @@ a{
     transition: all 0.5;
 }
 
-a:hover{
-    
+a:hover{    
     color: orange;
     transform: scale(1.3);
 }
