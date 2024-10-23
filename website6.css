@@ -90,29 +90,6 @@ option{
     font-family: 'Mulish', sans-serif;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .body{
     height: 1200px;
     width: auto;
@@ -141,31 +118,6 @@ option{
     display: grid;
     place-content: center;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .SecondRow {
     height: 30%;
@@ -204,22 +156,6 @@ option{
     display: grid;
     place-content: center;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* positions */
 .Position1{
